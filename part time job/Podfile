@@ -1,0 +1,10 @@
+platform :ios, '7.0'
+
+pod 'Masonry'
+pod 'ReactiveCocoa'
+pod 'AFNetworking', '~> 2.0'
+pod 'SDWebImage', '~> 3.7'
+pod 'FrameAccessor'
+pod 'YYModel'
+pod 'MJRefresh'
+pod 'QR-Code-Encoder-for-Objective-C'

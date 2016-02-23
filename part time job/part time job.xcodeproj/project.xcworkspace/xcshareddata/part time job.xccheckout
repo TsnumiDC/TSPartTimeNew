@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C996A5F9-31D8-48ED-8BDD-E8DEE00017B9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>part time job</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E7EB443B0D09AEB0C36628E2BF89181377E345EA</key>
+		<string>https://github.com/TsnumiDC/TSPartTime.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>part time job/part time job.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E7EB443B0D09AEB0C36628E2BF89181377E345EA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/TsnumiDC/TSPartTime.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E7EB443B0D09AEB0C36628E2BF89181377E345EA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E7EB443B0D09AEB0C36628E2BF89181377E345EA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TSPartTime2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

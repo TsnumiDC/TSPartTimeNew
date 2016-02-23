@@ -1,0 +1,59 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - FrameAccessor (2.0)
+  - Masonry (0.6.4)
+  - MJRefresh (3.1.0)
+  - QR-Code-Encoder-for-Objective-C (1.0.0)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - YYModel (0.9.12)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.0)
+  - FrameAccessor
+  - Masonry
+  - MJRefresh
+  - QR-Code-Encoder-for-Objective-C
+  - ReactiveCocoa
+  - SDWebImage (~> 3.7)
+  - YYModel
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  FrameAccessor: 443a13e58e23a10ff22180da0897b28c3f6abf66
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  MJRefresh: 743e6404967d1c2c688472ea3ecfde247d872db4
+  QR-Code-Encoder-for-Objective-C: 031dda11bf457a73dd5dea9165d934d628bcaf2d
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  YYModel: 33a27f41a995f4c36ff8178421bac9f221a9c7ea
+
+COCOAPODS: 0.39.0
